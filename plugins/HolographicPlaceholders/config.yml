@@ -1,0 +1,57 @@
+# 
+# Holographic Displays Placeholder Extension
+# This plugin is made by NeutralPlasma/Gasper Lukman
+# You can get more support on his discord server or by sending
+# private discord message to him
+# Discord: Gasper Lukman#6926
+# Discord server: https://discord.gg/Zpks2WK
+system:
+  first-load: false
+addons:
+  BalTop: true
+  BalTopV2: false
+  ProtocolLib: true
+  PlaceholderAPI: true
+  MultiPlaceholders: true
+placeholder-addons:
+  '%statistic_deaths%':
+    size: 10
+    interval: 200.0
+    value: number
+    format: 1
+    signs: false
+    heads: false
+    placeholder-delay: 10
+  '%statistic_seconds_played%':
+    size: 10
+    interval: 200.0
+    value: time
+    format: 1
+    signs: false
+    heads: false
+    placeholder-delay: 10
+placeholderAPI:
+  delay: 1
+  placeholders:
+  - '%server_name%'
+BalTop:
+  delay: 200.0
+  placeholder-delay: 10.0
+  offline-delay: 800.0
+  size: 10
+  format: 1
+  excluded-users:
+  - name1
+  - name2
+  - name3
+BalTopV2:
+  delay: 200.0
+  placeholder-delay: 10.0
+  offline-delay: 800.0
+  size: 10
+  format: 1
+  excluded-users:
+  - name1
+  - name2
+  - name3
+config-version: 2.9

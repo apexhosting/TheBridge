@@ -1,0 +1,31 @@
+# Placeholders you can use in sign texts:
+# {position} - Position in number user is on
+# {player} - Returns player name
+# {value} - Gets replaced with value like money
+#
+
+'%statistic_deaths%':
+  1:
+    lines:
+      - "&bTop 1"
+      - "&e{player}"
+      - "&fDeaths: &e{value}"
+      - "&f=========="
+  2:
+    lines:
+      - "&bTop 2"
+      - "&b{player}"
+      - "&fDeaths: &e{value}"
+      - "&f=========="
+  3:
+    lines:
+      - "&bTop 3"
+      - "&d{player}"
+      - "&fDeaths: &e{value}"
+      - "&f=========="
+  default:
+    lines:
+      - "&bTop {position}"
+      - "&7{player}"
+      - "&fDeaths: &e{value}"
+      - "&f=========="

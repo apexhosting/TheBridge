@@ -1,0 +1,52 @@
+# --{ =-=-=-=-=-=-=-=-=-= ItemJoin's Custom Item Configurations, by RockinChaos =-=-=-=-=-=-=-=-=-= }--
+# See the tutorial page for a more in-depth explanation; https://github.com/RockinChaos/ItemJoin/wiki
+# Join the discord for easy plugin support; https://discord.gg/D5FnJ7C
+# 
+# Modifying the Version will cause this file to break and regenerate.
+items-Version: 8
+items-Delay: 2
+items-Overwrite: true
+items-Spamming: false
+items-RestrictCount: false
+items:
+  arena-selector:
+    id: COMPASS
+    slot: 4
+    name: '&c&lARENA SELECTOR'
+    lore:
+    - '&eRight click to open!'
+    interact:
+    - 'player: tb arenas'
+    commands-sound: NOTE_PLING
+    commands-particle: FIREWORK:BLACK:RED:BURST:10
+    commands-sequence: SEQUENTIAL
+    commands-cooldown: 5
+    cooldown-message: '&7[&cCore&7] &7[&a%item%&7] &7is on cooldown for &c%timeleft%
+      &7seconds..'
+    attributes: '{GENERIC_ATTACK_DAMAGE:15.2}'
+    enchantment: DURABILITY:3
+    itemflags: unbreakable, hide-attributes, self-drops, death-drops, CreativeBypass
+    triggers: join, respawn, world-switch, region-enter
+    permission-node: itemjoin.selector
+    enabled-regions: region1, region2
+    enabled-worlds: thebridge_world
+  stick:
+    id: STICK
+    slot: 8
+    name: '&e&lSTICK FIGHT'
+    lore:
+    - '&cUse this to hit your friends!'
+    interact:
+    - ''
+    commands-sound: NOTE_PLING
+    commands-particle: FIREWORK:BLACK:RED:BURST:10
+    commands-sequence: SEQUENTIAL
+    commands-cooldown: 8
+    cooldown-message: '&7[&cCore&7] &7[&a%item%&7] &7is on cooldown for &c%timeleft%
+      &7seconds..'
+    enchantment: DAMAGE_ALL:1, KNOCKBACK:1
+    itemflags: unbreakable, hide-attributes, self-drops, death-drops, CreativeBypass
+    triggers: join, respawn, world-switch, region-enter
+    permission-node: itemjoin.stick
+    enabled-regions: region1, region2
+    enabled-worlds: thebridge_world

@@ -1,0 +1,8 @@
+Mystery-Vaults:
+  '1':
+    BlockFace: NORTH
+    Location:
+      world: thebridge_world
+      x: 198.0
+      y: 117.0
+      z: -24.0

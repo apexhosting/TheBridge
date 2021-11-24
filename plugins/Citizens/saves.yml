@@ -1,0 +1,401 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 10
+npc:
+  '3':
+    metadata:
+      cached-skin-uuid-name: gangmemberjohn
+      cached-skin-uuid: 3ba33a94-a971-430e-bde1-5268e5207535
+    name: §8§lTEMPLE
+    uuid: 1533d05c-cf7f-4b42-b4dc-dcd831e80476
+    traits:
+      inventory: {}
+      sneak:
+        sneaking: false
+      spawned: true
+      scoreboardtrait: {}
+      skintrait:
+        fetchDefaultSkin: true
+        signature: FOSxvDN17i9lYHyqinZwbUz6XsZPBV66Eo5X4nGvZhqCXI2FwgIv4XXsIbWN8n1EBLcbPfCem0a09XrOzxJfESAGlLvV+J8OLQ7n+5dC/Id2pQfmGI9fH0A2nRo4YkuOSEBUgFzV+3MYhCOeGBpjsAEyqQ0z64NqlymAUIqNnexz5Q4aw7aNWGR6CJIduqokPqpAebkbvdcQxUavXsGQFlSiOZj3zCO/koLRETR2Cn6OYaZ89v3ERWQOsyZVtAvCMySYS53EoZDb7IdcllruIK9yMySYw+jf8XcXFFRXAhvM66ntDYfCQzllefU6KO6OQGy67ICULmqrmxjqs6ZfQE4LtmzunGzT26NTlHq6/s54JSqeqTDkuqAJWGxhPHJf2gVyAmjnF98scTt5LQmKFUJRXBdvHaReswwEQPIAWVTh93Z8K0l6iXXaJDmFfqxH7M1UB3s7dq3Uihbv0RAlvqwmcvGEEFDejv4hYucsXSyf2lw88ENo/kzW9o8eBN5/RaNgmMcvV3qqrZDk9jLkCjdMyGZKbW1MQog59A6cGx1Nr/wbyCRcZbDuxmhofJqQ2OrU1I0xV6gdD6sakjf10/fgz+1poXSlwHurHp7nILRE0fZfi2sb8Coj18h6YQ01/EO5Eib1pCWVtuQHxQav6RCE5xW+fTXKFcNe8XBEITo=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTYzNzE2Mzg0MTc3MCwKICAicHJvZmlsZUlkIiA6ICIzYmEzM2E5NGE5NzE0MzBlYmRlMTUyNjhlNTIwNzUzNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHQU5HTUVNQkVSSk9ITiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lM2MwNjFjMmRkZjczNzA1Y2VkOTQ1ZTIwMjJmNzBiMzJjNmUwMzI2YWI4NjEyNjRiNmY3ZTNlMzI2NDNlMDE0IgogICAgfQogIH0KfQ==
+        updateSkins: false
+        skinName: gangmemberjohn
+      type: PLAYER
+      location:
+        bodyYaw: -122.83507
+        world: thebridge_world
+        x: '184.524'
+        y: '117.0'
+        z: '-26.3924'
+        yaw: '-122.8351'
+        pitch: '4.0062'
+      owner:
+        uuid: f0e7f028-4955-4dc8-8e40-d334ef0bd19a
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        commands:
+          '0':
+            command: tb join temple
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+    traitnames: type,owner,scoreboardtrait,equipment,sneak,inventory,location,skintrait,mounttrait,commandtrait,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '2':
+    metadata:
+      cached-skin-uuid-name: 60w
+      cached-skin-uuid: b0c901d0-c4de-4e86-a3ab-cf7d2982d647
+    name: §f§lWINTER
+    uuid: 627e1f9c-ff54-4062-8fba-d1f7c255adca
+    traits:
+      inventory: {}
+      sneak:
+        sneaking: false
+      spawned: true
+      scoreboardtrait: {}
+      skintrait:
+        fetchDefaultSkin: true
+        signature: n00/Egiqd1UQKkcSZeQMUbgFMofpMsW3eNUkeLRo85r2uyEZS9J6MR7kKliL4IS2Cy/DfQO60IHHuQ0aWExVb65f5AIoTRZdsgYdwOCcWgZR+H7QnMrmh0GzyuRqz/yfODb/Bgvs7/RNAlMjAANKtO6upDAOxRqrtvU4ZU/9KqqABLzSWVMv8AJlXgdZVD5/Spo2uxrkjBCtB8+FZwx4eQKFpm58Fljv6lMuYR8GM263PHvBNKyXgILTHLuksNr9xX9t9OyIjwY7jnfFtFxzSmURdJ+g6EDTqX46RI7WzoWm208KZOzkIfRJpiv9I7RiA0tB11V3hpRse2O+6E9poz/8mrWD+WSk6fvf6BC2xfmyWbZQATioc+3GGDuw//sfuLMgeRThMrw6hSWNUonsaiH42AYYcHtV5zKwcENv0ZfgUFSAsgFk/uwXCmb2S+puv3PKaQ4CrywFoW+tZRflOlR2dRheubumYJOiw064OJqWRVLu8wtd2vwwMF+/Eh6Ou7iyKs8rtBmj0Y5UdKN+wVzmhxhxb01B5vlqQRVHsybg99VDHJSgRPRSgn2+sGkYETnjpmAB67Y2bHWFmlcvW3J/Z2aB4GcdmmBnyWpVYRODRTPa3kwhjjmgtzQCQJrC5KSV/2Wzm6Gsa26u2mv8lMA1CrykIw9MRDxJaZL0y8Q=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTYzNzE2NDAzMTczOCwKICAicHJvZmlsZUlkIiA6ICJiMGM5MDFkMGM0ZGU0ZTg2YTNhYmNmN2QyOTgyZDY0NyIsCiAgInByb2ZpbGVOYW1lIiA6ICI2MFciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2M0YTM3ZGNkYTM0N2Y2ZWU1MjViMDYyNDA0MWVhYzk1OWNmODAyMTZmODNjMDg3YjNiOThmYzdmMzRhN2E0MCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9
+        updateSkins: false
+        skinName: 60w
+      type: PLAYER
+      location:
+        bodyYaw: -101.913414
+        world: thebridge_world
+        x: '182.5224'
+        y: '117.0'
+        z: '-29.5346'
+        yaw: '-101.9134'
+        pitch: '4.16'
+      owner:
+        uuid: f0e7f028-4955-4dc8-8e40-d334ef0bd19a
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        commands:
+          '0':
+            command: tb join winter
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+    traitnames: type,owner,scoreboardtrait,sneak,equipment,inventory,location,skintrait,mounttrait,spawned,commandtrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '1':
+    metadata:
+      cached-skin-uuid-name: paninipower
+      cached-skin-uuid: d917926f-8ace-4135-bb2c-21c912b06ea7
+    name: §6§lPIRATE
+    uuid: b0775e7b-c2ee-4e9d-ab43-e10d92065538
+    traits:
+      inventory: {}
+      sneak:
+        sneaking: false
+      spawned: true
+      scoreboardtrait: {}
+      skintrait:
+        fetchDefaultSkin: true
+        signature: OMJzAlH4nKHtT1yswiKSghynlSNFCqhltRBfc928jhNNw3qvfHwnYzyWU8pkk8hgZ+AmNvnXKqQPCCYj2Q+KWbmKd3o0BPVq2FhheZ+/xbfrShru5nyfJKwwkSagMQOmIfzz75tRF2WhXMMHpitE65pldnL0RW9IHUb9vGI3F0LnTbFZkKwCuKuDg2uzAYfhKwdkk4rktsMLfyqS5d4LuYPwYyV/RfVH0/USWbKKQbeJCl7BSuCdHlpA0YqkU1Om3bvuU5BDPOKGn3bIdxK7ZUIsnENQkIc2tX3CYmPf7jiqnPzZSNUbwP8Lms75XymftD6BPhGheknGjxwM6DAIsfxVIA0qCqhG9AJFHFY25L8JWQ6+4MMtDI/UXuNsKP8Ed3d/b7+WIkNEy8cVM5Nah1OcKtLUi/CZ5UJByqQ2F95HR5e8TiHTU+uUVq8meShmb9DGS9kPSLdKjXk/J2EFrqGmb+QoU57KjXIKTyug0UzVsi4UfkNyu60C/M3ZpteBmo4fM7SuM590x0LjKv8lj6O9GCHoacrWaxrr48OhWwwWqMIOPOMzJpXKzxEuQkZ24aYoY1Y3Rc4VvR+YAL+3s4MjJ9OUaQ79InZsG8PKEZAJO3VKvQhL+LGNFex7EjfGXmHeGsbcnp6wSv3RVtJYA2CmgbGAdQTiWeBNzIlT8qM=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTYzNzE2Mzk0Mjc2NSwKICAicHJvZmlsZUlkIiA6ICJkOTE3OTI2ZjhhY2U0MTM1YmIyYzIxYzkxMmIwNmVhNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJwYW5pbmlwb3dlciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMTNiY2QyMjk4YTU1OGU4MmNiZjFlYTQ0NDI2MDZjZDRhODk3YmYzZTMxYjIxYTgxMGE1ODMyOWM5MmQxYmE4IgogICAgfQogIH0KfQ==
+        updateSkins: false
+        skinName: paninipower
+      type: PLAYER
+      location:
+        bodyYaw: 268.52127
+        world: thebridge_world
+        x: '182.6212'
+        y: '117.0'
+        z: '-32.4474'
+        yaw: '268.5213'
+        pitch: '5.2369'
+      owner:
+        uuid: f0e7f028-4955-4dc8-8e40-d334ef0bd19a
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        commands:
+          '0':
+            command: tb join pirate
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+    traitnames: type,owner,scoreboardtrait,sneak,equipment,inventory,location,skintrait,mounttrait,commandtrait,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '0':
+    metadata:
+      cached-skin-uuid-name: bravo_521
+      cached-skin-uuid: 0e3a6dcd-81eb-4675-87fd-c38e2e15b491
+    name: §2§lFOREST
+    uuid: 6f39327e-a1e3-4133-8aa2-b4063bfca9c5
+    traits:
+      inventory: {}
+      sneak:
+        sneaking: false
+      spawned: true
+      scoreboardtrait: {}
+      skintrait:
+        fetchDefaultSkin: true
+        signature: t4bacdTCpcRZJ4kJjwmZp7w+GROrQW/WvEpbFSvkLWoFvCQlH2cMUFndMrrjFWbTz++/8Avmn0Bw6EZ6KGctnK++h9A0l/SPgU9Rl1h1V4b7aHuf39yuI83Q4bMh6BKwobfE+mRrMEwRkfY7gJ8knE8QFqwWk1rigtB4AyFkCENmJj2ADgKTw/R3YfZjH8A4GrZUfTTGDl7NjtnQGcXKfVRuSvVLJvAu/9DO0QDSafYfHmVZpeNykuhMhWvm7Jd2QP6j6+5kFs8fm6X2LDFVT5mc4v2RLi15QRazp7+UTuyzmRmSM3P6EZq1ISvW4tkPwJQRllQs/Xyi/G2ni5VJny5WUrh7v2FeUK05K3695/XyhbnND1ru5UTjFBHbVwNVsCvThfMMJ/HaiKOLP2Kg+AIoavV1JMbSk2Xmj4Bsvx9IgXn+d20y2BQ+mJYSn8rIaAbttcbLA6jfnLhyE7o/1BKkAQT58S54e6qiC1rHaG9+Yw3eOYjfCIOqwPnPehV9Gd9zSff3tpQhqLsForJeUQBdQ26H3KZOeUgk5O2ebkVHEZDfB/4KEWNiWzu9J+ki5vw4hq6rzTSJrTjKmObutGA0keQpuLtkgbEtqVBgbNb94WCJ1IDPJamDgtzvTD+/bMNrqPhuGAugXOQn/X3tDA/UGrxtkuf6r1LmUZFAcDw=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTYzNzE2MzYxMTgwOSwKICAicHJvZmlsZUlkIiA6ICIwZTNhNmRjZDgxZWI0Njc1ODdmZGMzOGUyZTE1YjQ5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJicmF2b181MjEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzc4NWM4YmU4YzUxNTkyZjE1ZTk5NmQ3MDk3Y2E5NDFkNmM0Yjk0M2FiNDdmYTEzNmQxMTAyMGEzZWU0MDEzMiIKICAgIH0KICB9Cn0=
+        updateSkins: false
+        skinName: bravo_521
+      type: PLAYER
+      location:
+        bodyYaw: 270.3663
+        world: thebridge_world
+        x: '184.4764'
+        y: '117.0'
+        z: '-35.5186'
+        yaw: '270.3663'
+        pitch: '5.0831'
+      owner:
+        uuid: f0e7f028-4955-4dc8-8e40-d334ef0bd19a
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        commands:
+          '0':
+            command: tb join forest
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+    traitnames: type,owner,scoreboardtrait,equipment,sneak,inventory,location,skintrait,mounttrait,spawned,commandtrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '7':
+    metadata:
+      cached-skin-uuid-name: mummez
+      cached-skin-uuid: e6f0ff98-ae28-4f62-a1de-e50227003e23
+    name: §5§lFESTIVAL
+    uuid: ca559c22-f391-4a78-8cb8-3c957c46f7b6
+    traits:
+      skintrait:
+        fetchDefaultSkin: true
+        signature: KXiCz/9t5eQ4mpm8aeXO6Vc+JvggyBzotqx83lxE8FnzzJWR6GM1zsLE4BQj4pTA3/Yc/zRnY2FvNJHNlrQj76Zb54D/fd51pDEUSF9v7kqF0nDaTq8J6fnDzttCuyMYGk/rwWi/EVlPPES5jJaQoaJqYATItaZ3vOtWFekGVwQQvph/DvmScDRoEY8M3RjCGoPgU2f8pb195rFmIQ2RDQRXI69AUsqi0hEtkzjqAWAJJYClpIxhEVSFScLeQIpoLx5cMhtz5z90qW8umS8S5geLx+8BTfQHptiMWwWFMdLckGSfUfM2pa9nqHEonYVBiXeAbBAwiUzbgnHxCmfa/nhOEoxoVeTZLTK6dd2wcTtm/7xTRN5vrtAgYSus5ChDJsCLV/r38GSNTKTagtj2AVkwyGNC+ZR3FpTKcmcBUSH77bosaID+7/t0K0h4yzTVYneLdQzZUGU6YzZW90XjzNtbh+V9HTOhGKJvKL6cXaC9YJJyg1Y70Lj1laWp5JwteMwtxFo0UBqpO2vCSlcplEvS7du15FlZI64rbe5bjEyq2mNjtJv/B9WtJB58P49aU2rqxEMJO6xev04S/WlDNbnDT43HXpeiclrniG+kCfmgv9ZOYVprMH4yAzOeRgRlWP4L3YL4PsDpLMWoGpuprpFn9M9A61QNV8GdMW+zaVY=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTYzNzE3MjM5OTMwOSwKICAicHJvZmlsZUlkIiA6ICJlNmYwZmY5OGFlMjg0ZjYyYTFkZWU1MDIyNzAwM2UyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNdW1tZXoiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYThkN2U4NTA4MmQxZjdjNDM2ZWE5NTM3MWM4MzljYzQxOTRlNzRjNTE5NDZjOTQwZjVlNmI2NzM2Mzk5Zjc4YiIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjM0MGMwZTAzZGQyNGExMWIxNWE4YjMzYzJhN2U5ZTMyYWJiMjA1MWIyNDgxZDBiYTdkZWZkNjM1Y2E3YTkzMyIKICAgIH0KICB9Cn0=
+        updateSkins: false
+        skinName: mummez
+      owner:
+        uuid: f0e7f028-4955-4dc8-8e40-d334ef0bd19a
+      spawned: true
+      scoreboardtrait: {}
+      inventory: {}
+      location:
+        bodyYaw: 223.60004
+        world: thebridge_world
+        x: '186.6997'
+        y: '117.0'
+        z: '-24.5794'
+        yaw: '223.6'
+        pitch: '4.9291'
+      sneak:
+        sneaking: false
+      type: PLAYER
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        commands:
+          '0':
+            command: tb join Festival
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+    traitnames: type,owner,scoreboardtrait,sneak,equipment,inventory,location,skintrait,mounttrait,spawned,commandtrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '6':
+    metadata:
+      cached-skin-uuid-name: dogcrack
+      cached-skin-uuid: bf466b02-d3ea-4c1f-b870-d3fc4f47e3a2
+    name: §3§lHALL
+    uuid: 7d899147-39c5-4ce7-97bc-0176ef23482a
+    traits:
+      skintrait:
+        fetchDefaultSkin: true
+        signature: iFL+3tWYKHrBVw8txDsbtlTQRU2KEU49qSMssml98/SOGx5XLYrgb3yBOK0XU/MQ/WDegBEBav9Q98QbDMOZ7R/ZtubDZymB7KffXyI4GOa0cFnTWBtn1FiklFh+M0Ti5+Ema3vvi/RU/24atx2i44u2BZ6F2JpVf9Z+lfPoCURARtIAk6b4YUgPGZUWkk7xEbaGXftbF13Nk2fO1RRz5yNgLEVHIM0TBj07deqppCupbAM606kvSpf9ilLfiIgv0M2JP3u6Fmq+kM5XArMuc3QTd4sWtKNQC4lEL+gR1gEV7OgLzEUUjDi4/2pFrzzCJZGfkRyIhDROE0lCb2CFNzIqk/FcxZds+ZNMO1eMKg1QChde7wcHo9tY1wj8WJXhntAqK7rHuKl+0/EkLF1GbxbsvsetvNDz4D6k7jlrns6KJLwX4yms/+IQDHsVXlu8vDfMZ7AT9C3tf+jR0ZRftUO7VrlONf03h9ANOW53xJAHG5AMOy1HXjWS8eLOKbKvWuhlfajTnYZinPCreE/VKUGLw+ltmd6aEAbpD2xmpFz8AhlqYzMkNZwunK0lpF0uM9crVmG520K4jr3hLuCVcPWniknT9Umy/XU1X1h4X5D+b2UavBwXxWHqAsYzA/xJb3rz2Orl/RufBz+DmOI1o6y7eN9dtNiEwF+NApYv1Tw=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTYzNzE3MjQ1OTE0NSwKICAicHJvZmlsZUlkIiA6ICJiZjQ2NmIwMmQzZWE0YzFmYjg3MGQzZmM0ZjQ3ZTNhMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJET0dDUkFDSyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zOWQ4NDcxY2VlYjdjZDQ0ODZmNjY5MmRmY2YyNGM3ZDhmNzBkOGEyOTlkYWU3ZTk2MTg1ODFkMjljZWYxNWRiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=
+        updateSkins: false
+        skinName: dogcrack
+      owner:
+        uuid: f0e7f028-4955-4dc8-8e40-d334ef0bd19a
+      spawned: true
+      scoreboardtrait: {}
+      inventory: {}
+      location:
+        bodyYaw: 301.28683
+        world: thebridge_world
+        x: '187.2949'
+        y: '117.0'
+        z: '-37.5222'
+        yaw: '301.2868'
+        pitch: '5.5445'
+      sneak:
+        sneaking: false
+      type: PLAYER
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        commands:
+          '0':
+            command: tb join Hall
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+    traitnames: type,owner,scoreboardtrait,sneak,equipment,inventory,location,skintrait,mounttrait,commandtrait,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '9':
+    metadata:
+      cached-skin-uuid-name: robert_beckley
+      cached-skin-uuid: c0a68af6-e4ee-4b2b-b6bd-4287d97f0755
+    name: §b§lCOSMETICS
+    uuid: f505ed31-7ca5-4495-a4d2-9ec6070e8df9
+    traits:
+      owner:
+        uuid: f0e7f028-4955-4dc8-8e40-d334ef0bd19a
+      scoreboardtrait: {}
+      skintrait:
+        fetchDefaultSkin: true
+        signature: xvzqJqAOlYk6t2rtXH7wnvLLduSnCsAF3ftS9Zklgaf50h+1Oy92S+npU+GbZkW2PDDyekTlC45Nk1dx0WjxlIG4YV2cwD05IbJ5003L2giuwtBu2KGY4/Ctrl1JI2DzkqW6U+9tV1ig+ws6wvq9D4qM8F7+pMK1Yd/WGvuGnbZFW7V1G2isDU1uyMGnqNlRlJRTe4OKpR1UN2G2uWBJIPRhR28RS2QwmmfG2zoaEVwhcoLK5uEINz1WHgdAN3quRzANVyjL69kMukdvliQti+YcHktDXYOlRurbukyI/zvjLSeJ37OVbyOPS5d3aB+ui2+Cy0hBcEnxGKmnfiyyVwKpwcC5VzbKezQ22Xz6P7P21356lZoKDlnqWRkr2FP6ZHNqz8TF8Raxi7ds0iIOtdolPwQLma0TJWpnjy1ZPAq6xiG/aQowwpoOquc9Uk0NOVrCMZsP5p28NExOXW8w2AQz9T+ccC0VKhBxim0AQeimLkYlgFJxp/wcLx/ISPgutlKg9yKq88bc30k95oB0lx8PBs5/B9lhKf9r/igbxCqWcFxnJe+y07/SYiH0Bxq6xfRR27GhwBltlUzjcqezP7dfs+bNb4ymOimtQFF6JK399p2cz+Mu92ZbYi02QeeIpmK2mSvUjAvcJtFkHzztfHeJdSpQvSPzJ3ZyN34w+Zw=
+        skinName: robert_beckley
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTYzNzE3NDE5OTU4NiwKICAicHJvZmlsZUlkIiA6ICJjMGE2OGFmNmU0ZWU0YjJiYjZiZDQyODdkOTdmMDc1NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJyb2JlcnRfYmVja2xleSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jOTFmY2NhYjM2MTRjYjZiOTI5NzlkMjVhOWYxNzM5M2ViMzA5YjcxNTQ4YzYxOGIzMzRiYjBkNjRmZjYzZTQxIgogICAgfQogIH0KfQ==
+        updateSkins: false
+      spawned: true
+      inventory: {}
+      sneak:
+        sneaking: false
+      lookclose:
+        range: '5.0'
+        disablewhilenavigating: true
+        enabled: false
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        commands:
+          '0':
+            command: gmenu main
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+      type: PLAYER
+      location:
+        bodyYaw: -37.856487
+        world: thebridge_world
+        x: '189.2926'
+        y: '116.0'
+        z: '-40.8176'
+        yaw: '-37.8565'
+        pitch: '0.0'
+    traitnames: type,owner,lookclose,scoreboardtrait,equipment,sneak,inventory,location,skintrait,mounttrait,spawned,commandtrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '8':
+    metadata:
+      cached-skin-uuid-name: allandev
+      cached-skin-uuid: bdc83502-6d75-4c26-a633-729e9ed81aee
+    name: §8§lTAGS
+    uuid: fe523c73-d622-4990-9f85-faeeb8eaba62
+    traits:
+      owner:
+        uuid: f0e7f028-4955-4dc8-8e40-d334ef0bd19a
+      scoreboardtrait: {}
+      skintrait:
+        fetchDefaultSkin: true
+        signature: jmhtOj7VhwfElNKbrYkDw0IqC3pDdA3zPLfamHBO5HKSb/OWKccSbus4ofHqH3XgixDMD13tPLvxh0pRx6Iq20YoPxL6ymIOPcx8xZ/2rHMiOcwizs0xAXBZjJUj429o2WVla97oM/MaiUnThJa/QMmdTMS7H+37a5xQm6Hs3rQWJGdYM3wkUeI7Shgz1r+SdhB7/xXhraxVg+dAMLltNGBgBuGKIEngVkNBUifcRS75RvDVeU9wVDc1KLzlIrylePKWa7IHlsRdkaTnCQWDHR+Mqqdca4pAVVm9tzdUy/B7IC/cFy1aTM7ikFcXtDoR/yPv4UlkpH8jUqU+UExu+mUuUzxA+zn1k2USB+kvtR0Jic/rh6Ya7GFR2oVpBAeVwMr10NYrXmOmUsDH/oXpIPyXHHfy5Ka6EGINsxeR7xF7ch/Qne1cPybet19iS/9cnDWvOWUi5DR9Dab+np/8xJn+LjNVMMLNZcDTMHkUd33sylXbKGYRsbdUM6T7vu53upGGjIpr8fVGjsqrXxvnsZ51QLul2XRuKPUNd0YmuHhIS7DvO7wnYVnRHY/6Hj85j7dteKftIMewQ/IjvW2Knf4h5cmvy3uG5/Cf+KaBjtulXKXTeWkqJfhPcOTjoTbGxbDWfvhwwJTUwiBrpihc2yZMpW8fBz85bYEn/nW0A1w=
+        skinName: allandev
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTYzNzE3NDEyNDU3OSwKICAicHJvZmlsZUlkIiA6ICJiZGM4MzUwMjZkNzU0YzI2YTYzMzcyOWU5ZWQ4MWFlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbGxhbkRldiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NmUzOTVkZDcxMzljYWZhNWZlMmZjMTQ1MmZkZGU2MDYxM2IzMGZkYzhhZmNhOGMxYjcxYTZiNDkwZTc1N2UwIgogICAgfQogIH0KfQ==
+        updateSkins: false
+      spawned: true
+      inventory: {}
+      sneak:
+        sneaking: false
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        commands:
+          '0':
+            command: tags
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+      type: PLAYER
+      location:
+        bodyYaw: 7.749878
+        world: thebridge_world
+        x: '198.5738'
+        y: '116.0'
+        z: '-41.3268'
+        yaw: '7.7499'
+        pitch: '9.004'
+    traitnames: type,owner,scoreboardtrait,equipment,sneak,inventory,location,skintrait,mounttrait,commandtrait,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

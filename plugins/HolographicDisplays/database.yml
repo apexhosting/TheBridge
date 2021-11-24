@@ -1,0 +1,88 @@
+welcome:
+  location: thebridge_world, 192.552, 118.000, -31.503
+  lines:
+  - '&4&lThe Bridge'
+  - '&7Welcome to our bridges battle server!'
+  - '&7Get ready for &cfierce &7battles!'
+  - '&7Let the battles &abegin!'
+i1:
+  location: thebridge_world, 184.496, 119.604, -26.324
+  lines:
+  - '%thebridge_Temple:state_pretty%'
+i2:
+  location: thebridge_world, 182.439, 119.604, -29.657
+  lines:
+  - '%thebridge_Winter:state_pretty%'
+i3:
+  location: thebridge_world, 182.514, 119.604, -32.679
+  lines:
+  - '%thebridge_Pirate:state_pretty%'
+i4:
+  location: thebridge_world, 184.416, 119.604, -35.502
+  lines:
+  - '%thebridge_Forest:state_pretty%'
+vs1:
+  location: thebridge_world, 184.554, 119.799, -26.296
+  lines:
+  - '&4&l4v4'
+vs3:
+  location: thebridge_world, 182.700, 119.978, -32.463
+  lines:
+  - '&e&l2v2'
+vs4:
+  location: thebridge_world, 182.513, 119.978, -29.553
+  lines:
+  - '&e&l2v2'
+vs2:
+  location: thebridge_world, 184.420, 119.978, -35.530
+  lines:
+  - '&4&l4v4'
+i5:
+  location: thebridge_world, 187.380, 119.676, -37.510
+  lines:
+  - '%thebridge_Hall:state_pretty%'
+i6:
+  location: thebridge_world, 186.648, 119.676, -24.538
+  lines:
+  - '%thebridge_Festival:state_pretty%'
+vs5:
+  location: thebridge_world, 186.643, 119.911, -24.539
+  lines:
+  - '&0&l8v8'
+vs6:
+  location: thebridge_world, 187.251, 119.911, -37.615
+  lines:
+  - '&0&l8v8'
+i7:
+  location: thebridge_world, 198.587, 118.669, -41.348
+  lines:
+  - '&eClick to manage'
+i8:
+  location: thebridge_world, 189.252, 118.669, -40.922
+  lines:
+  - '&eClick to manage'
+Stats:
+  location: thebridge_world, 195.116, 119.616, -23.428
+  lines:
+  - '&c&LYOUR STATS'
+  - ''
+  - '&7Total kills: &e%thebridge_kills%'
+  - '&7Total deaths: &c%thebridge_deaths%'
+  - '&7Total played games: &b%thebridge_games_played%'
+  - '&7Total wins: &a%thebridge_wins%'
+  - '&7Total goals: &e%thebridge_points%'
+  - ''
+  - '&7Current XP level: &c%thebridge_level%'
+pvp:
+  location: thebridge_world, 203.815, 117.967, -29.086
+  lines:
+  - '&e&lMINI BRIDGE'
+  - '&7Waiting for a game to end?'
+  - '&7Feel free to smack your friends around &ahere!'
+  - '&cPVP is enabled after the red line.'
+crates:
+  location: thebridge_world, 195.093, 118.911, -38.036
+  lines:
+  - '&a&lCRATES'
+  - '&7Claim your rewards &ahere!'
+  - '&eGet crates by winning games!'

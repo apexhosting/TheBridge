@@ -1,0 +1,18 @@
+data:
+  '%statistic_deaths%':
+    f0e7f028-4955-4dc8-8e40-d334ef0bd19a:
+      value: 0.0
+    bdc83502-6d75-4c26-a633-729e9ed81aee:
+      value: 0.0
+  '%statistic_seconds_played%':
+    f0e7f028-4955-4dc8-8e40-d334ef0bd19a:
+      value: 0.0
+    bdc83502-6d75-4c26-a633-729e9ed81aee:
+      value: 0.0
+addon-data:
+  '%statistic_deaths%':
+    signs: []
+    heads: []
+  '%statistic_seconds_played%':
+    signs: []
+    heads: []
