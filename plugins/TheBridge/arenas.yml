@@ -37,7 +37,7 @@ instances:
     maximumsize: 4
     modevalue: 5
     mode: POINTS
-    resetblocks: 3
+    resetblocks: 0
     bases:
       '0':
         color: RED
@@ -60,213 +60,213 @@ instances:
         portalhologram: TB-Forest,-4.0,103.0,42.0,0.0,0.0
         isdone: true
     resettime: 0
-  Pirate:
-    lobbylocation: arenasworld,-9.425203065537886,126.0,337.31789211324576,181.21638,0.0
-    endlocation: thebridge_world,197.62244114997614,116.0,-31.913877159264302,87.173584,0.0
-    spectatorlocation: arenasworld,-9.170444055655278,126.0,336.62668603968734,177.11182,0.0
-    minimumplayers: 2
-    mapname: Pirate
-    signs:
-    - thebridge_world,169,117,-42,0.0,0.0
-    isdone: true
-    midlocation: arenasworld,-10.612019781745538,106.0,260.4306347923611,265.3629,0.0
-    arenalocation1: arenasworld,-73.0,91.0,299.0,0.0,0.0
-    arenalocation2: arenasworld,53.0,187.0,224.0,0.0,0.0
-    bases:
-      '0':
-        color: RED
-        baselocation1: arenasworld,-36.0,84.0,229.0,0.0,0.0
-        baselocation2: arenasworld,-76.0,197.0,300.0,0.0,0.0
-        portallocation1: arenasworld,-53.0,105.0,261.0,0.0,0.0
-        portallocation2: arenasworld,-49.0,102.0,259.0,0.0,0.0
-        portalhologram: arenasworld,-51.0,105.0,260.0,0.0,0.0
-        cagelocation1: arenasworld,-50.0,112.0,257.0,0.0,0.0
-        cagelocation2: arenasworld,-53.0,112.0,262.0,0.0,0.0
-        spawnpoint: arenasworld,-54.24486827300415,113.0,260.97269298870674,260.70703,0.0
-        respawnpoint: arenasworld,-52.91107224202636,113.0,260.70620780019283,268.9828,0.0
-        isdone: true
-      '1':
-        color: BLUE
-        baselocation1: arenasworld,14.0,83.0,299.0,0.0,0.0
-        baselocation2: arenasworld,53.0,200.0,216.0,0.0,0.0
-        portallocation1: arenasworld,27.0,102.0,259.0,0.0,0.0
-        portallocation2: arenasworld,31.0,105.0,261.0,0.0,0.0
-        portalhologram: arenasworld,29.0,105.0,260.0,0.0,0.0
-        cagelocation1: arenasworld,32.0,112.0,264.0,0.0,0.0
-        cagelocation2: arenasworld,27.0,112.0,257.0,0.0,0.0
-        spawnpoint: arenasworld,30.009209153843067,113.0,259.6682657907034,92.785614,0.0
-        respawnpoint: arenasworld,30.009209153843067,113.0,259.6682657907034,93.09329,0.0
-        isdone: true
-    modevalue: 3
-    mode: POINTS
-    resetblocks: 0
-    maximumsize: 2
-    resettime: 0
-  Winter:
-    lobbylocation: arenasworld,266.66627499976016,165.0,822.7120569134597,178.59976,0.0
-    endlocation: thebridge_world,197.62244114997614,116.0,-31.913877159264302,87.173584,0.0
-    spectatorlocation: arenasworld,266.66627499976016,165.0,822.7120569134597,176.13841,0.0
-    minimumplayers: 2
-    mapname: Winter
-    signs:
-    - thebridge_world,168,117,-42,0.0,0.0
-    isdone: true
-    arenalocation1: arenasworld,325.0,119.0,713.0,0.0,0.0
-    arenalocation2: arenasworld,205.0,207.0,777.0,0.0,0.0
-    midlocation: arenasworld,266.56028370825084,138.0,745.4662957855044,269.3624,0.0
-    maximumsize: 2
-    bases:
-      '0':
-        color: RED
-        baselocation1: arenasworld,241.0,127.0,719.0,0.0,0.0
-        baselocation2: arenasworld,205.0,207.0,777.0,0.0,0.0
-        cagelocation1: arenasworld,230.0,144.0,742.0,0.0,0.0
-        cagelocation2: arenasworld,225.0,144.0,747.0,0.0,0.0
-        spawnpoint: arenasworld,227.30904080739634,145.0,745.2838663142475,266.39178,0.0
-        respawnpoint: arenasworld,227.30904080739634,145.0,745.2838663142475,273.16034,0.0
-        portallocation1: arenasworld,231.0,137.0,746.0,0.0,0.0
-        portallocation2: arenasworld,227.0,129.0,744.0,0.0,0.0
-        portalhologram: arenasworld,229.0,135.0,745.0,0.0,0.0
-        isdone: true
-      '1':
-        color: BLUE
-        baselocation1: arenasworld,291.0,126.0,769.0,0.0,0.0
-        baselocation2: arenasworld,328.0,205.0,713.0,0.0,0.0
-        cagelocation1: arenasworld,301.0,144.0,748.0,0.0,0.0
-        cagelocation2: arenasworld,306.0,144.0,742.0,0.0,0.0
-        spawnpoint: arenasworld,304.9644140376361,145.0,746.3082625494616,98.30175,0.0
-        respawnpoint: arenasworld,304.9644140376361,145.0,746.3082625494616,98.30175,0.0
-        portallocation1: arenasworld,302.0,137.0,747.0,0.0,0.0
-        portallocation2: arenasworld,304.0,129.0,743.0,0.0,0.0
-        portalhologram: arenasworld,303.0,135.0,745.0,0.0,0.0
-        isdone: true
-    modevalue: 3
-    mode: POINTS
-    resetblocks: 0
-    resettime: 0
-  Temple:
-    lobbylocation: arenasworld,14.607679760100929,171.0,-484.9939371828572,176.5639,0.0
-    endlocation: thebridge_world,197.62244114997614,116.0,-31.913877159264302,87.173584,0.0
-    spectatorlocation: arenasworld,14.607679760100929,171.0,-484.9939371828572,176.5639,0.0
-    minimumplayers: 4
-    mapname: Temple
-    signs:
-    - thebridge_world,170,117,-42,0.0,0.0
-    isdone: true
-    arenalocation1: arenasworld,-42.0,128.0,-535.0,0.0,0.0
-    arenalocation2: arenasworld,84.0,193.0,-576.0,0.0,0.0
-    maximumsize: 4
-    bases:
-      '0':
-        color: BLUE
-        baselocation1: arenasworld,46.0,144.0,-534.0,0.0,0.0
-        baselocation2: arenasworld,84.0,193.0,-576.0,0.0,0.0
-        cagelocation1: arenasworld,69.0,161.0,-553.0,0.0,0.0
-        cagelocation2: arenasworld,73.0,161.0,-557.0,0.0,0.0
-        spawnpoint: arenasworld,71.98578916388502,162.0,-554.5482670234352,88.13403,0.0
-        respawnpoint: arenasworld,71.98578916388502,162.0,-554.5482670234352,92.46582,0.0
-        portallocation1: arenasworld,57.0,154.0,-556.0,0.0,0.0
-        portallocation2: arenasworld,61.0,152.0,-554.0,0.0,0.0
-        portalhologram: arenasworld,59.0,155.0,-555.0,0.0,0.0
-        isdone: true
-      '1':
-        color: RED
-        baselocation1: arenasworld,-42.0,128.0,-535.0,0.0,0.0
-        baselocation2: arenasworld,-4.0,195.0,-578.0,0.0,0.0
-        cagelocation1: arenasworld,-26.0,161.0,-557.0,0.0,0.0
-        cagelocation2: arenasworld,-31.0,161.0,-553.0,0.0,0.0
-        spawnpoint: arenasworld,-28.660810669456506,162.0,-554.2635798224076,270.6053,0.0
-        respawnpoint: arenasworld,-28.660810669456506,162.0,-554.2635798224076,270.4815,0.0
-        portallocation1: arenasworld,-15.0,154.0,-554.0,0.0,0.0
-        portallocation2: arenasworld,-19.0,152.0,-556.0,0.0,0.0
-        portalhologram: arenasworld,-17.0,155.0,-555.0,0.0,0.0
-        isdone: true
-    midlocation: arenasworld,21.492007484731175,156.0,-554.6267624858588,178.31165,0.0
-    modevalue: 3
-    mode: POINTS
-    resetblocks: 0
-    resettime: 0
   Festival:
-    lobbylocation: arenasworld,1387.631909043687,146.0,-29.56919110875461,177.15585,0.0
-    endlocation: thebridge_world,196.8755420247598,116.0,-31.648567414126983,-270.05618,0.0
-    spectatorlocation: arenasworld,1387.631909043687,146.0,-29.56919110875461,177.61737,0.0
+    lobbylocation: arenas_world,243.65388158431944,42.0,-447.88375049981227,178.7826,0.0
+    endlocation: thebridge_world,197.5,116.0,-31.5,91.58681,0.0
+    spectatorlocation: arenas_world,243.82625788386684,43.0,-459.9338662379892,180.28394,0.0
     minimumplayers: 8
     mapname: Festival
     signs:
     - thebridge_world,168,117,-24,0.0,0.0
     isdone: true
-    arenalocation1: arenasworld,1462.0,224.0,-122.0,0.0,0.0
-    arenalocation2: arenasworld,1301.0,229.0,-39.0,0.0,0.0
-    midlocation: arenasworld,1381.5039785432866,129.0,-86.65878684291155,-92.51664,0.0
+    midlocation: arenas_world,244.50005615742464,17.0,-519.5292329567163,0.28500366,0.0
     maximumsize: 8
+    arenalocation1: arenas_world,164.0,1.0,-481.0,0.0,0.0
+    arenalocation2: arenas_world,329.0,113.0,-556.0,0.0,0.0
+    modevalue: 5
+    mode: POINTS
+    resetblocks: 0
+    bases:
+      '0':
+        color: BLUE
+        baselocation1: arenas_world,268.0,4.0,-481.0,0.0,0.0
+        baselocation2: arenas_world,329.0,113.0,-556.0,0.0,0.0
+        portallocation1: arenas_world,280.0,16.0,-521.0,0.0,0.0
+        portallocation2: arenas_world,276.0,17.0,-519.0,0.0,0.0
+        portalhologram: arenas_world,278.0,18.0,-520.0,0.0,0.0
+        cagelocation1: arenas_world,285.0,24.0,-522.0,0.0,0.0
+        cagelocation2: arenas_world,280.0,24.0,-517.0,0.0,0.0
+        spawnpoint: arenas_world,282.3546722976797,25.0,-517.919312401028,96.6405,0.0
+        respawnpoint: arenas_world,282.3546722976797,25.0,-517.919312401028,97.99072,0.0
+        isdone: true
+      '1':
+        color: RED
+        baselocation1: arenas_world,220.0,5.0,-558.0,0.0,0.0
+        baselocation2: arenas_world,164.0,125.0,-480.0,0.0,0.0
+        portallocation1: arenas_world,209.0,16.0,-519.0,0.0,0.0
+        portallocation2: arenas_world,213.0,17.0,-521.0,0.0,0.0
+        portalhologram: arenas_world,211.0,18.0,-520.0,0.0,0.0
+        cagelocation1: arenas_world,209.0,24.0,-518.0,0.0,0.0
+        cagelocation2: arenas_world,203.0,24.0,-523.0,0.0,0.0
+        spawnpoint: arenas_world,205.4051672415764,25.0,-520.9839582930966,273.25793,0.0
+        respawnpoint: arenas_world,206.077539786222,25.0,-520.5811299283746,269.80737,0.0
+        isdone: true
+    resettime: 0
+  Temple:
+    lobbylocation: arenas_world,-547.2719588415084,95.0,1593.3391615248393,182.24104,0.0
+    endlocation: thebridge_world,197.5,116.0,-31.5,91.58681,0.0
+    spectatorlocation: arenas_world,-548.5128835795176,96.0,1580.8126200691481,180.7393,0.0
+    minimumplayers: 2
+    mapname: Temple
+    signs:
+    - thebridge_world,170,117,-42,0.0,0.0
+    isdone: true
+    midlocation: arenas_world,-547.5305718503334,72.0,1509.4949975817835,359.38812,0.0
+    arenalocation1: arenas_world,-608.0,50.0,1528.0,0.0,0.0
+    arenalocation2: arenas_world,-484.0,120.0,1487.0,0.0,0.0
+    maximumsize: 2
+    bases:
+      '0':
+        color: BLUE
+        baselocation1: arenas_world,-524.0,55.0,1529.0,0.0,0.0
+        baselocation2: arenas_world,-484.0,120.0,1487.0,0.0,0.0
+        portallocation1: arenas_world,-508.0,69.0,1508.0,0.0,0.0
+        portallocation2: arenas_world,-512.0,70.0,1510.0,0.0,0.0
+        portalhologram: arenas_world,-510.0,71.0,1509.0,0.0,0.0
+        cagelocation1: arenas_world,-500.0,77.0,1511.0,0.0,0.0
+        cagelocation2: arenas_world,-497.0,77.0,1507.0,0.0,0.0
+        spawnpoint: arenas_world,-497.49186653050754,78.0,1509.5137876781384,223.77563,0.0
+        respawnpoint: arenas_world,-497.49186653050754,78.0,1509.5137876781384,226.026,0.0
+        isdone: true
+      '1':
+        color: RED
+        baselocation1: arenas_world,-572.0,56.0,1489.0,0.0,0.0
+        baselocation2: arenas_world,-608.0,133.0,1528.0,0.0,0.0
+        portallocation1: arenas_world,-588.0,69.0,1510.0,0.0,0.0
+        portallocation2: arenas_world,-584.0,70.0,1508.0,0.0,0.0
+        portalhologram: arenas_world,-586.0,71.0,1509.0,0.0,0.0
+        cagelocation1: arenas_world,-596.0,77.0,1507.0,0.0,0.0
+        cagelocation2: arenas_world,-599.0,77.0,1511.0,0.0,0.0
+        spawnpoint: arenas_world,-597.5220208859284,78.0,1509.8157773505459,358.4754,0.0
+        respawnpoint: arenas_world,-597.5220208859284,78.0,1509.8157773505459,357.4253,0.0
+        isdone: true
+    modevalue: 3
+    mode: POINTS
+    resetblocks: 0
+    resettime: 0
+  Winter:
+    lobbylocation: arenas_world,235.67136466287775,93.0,2586.0913086690543,179.23236,0.0
+    endlocation: thebridge_world,197.5,116.0,-31.5,91.58681,0.0
+    spectatorlocation: arenas_world,235.2414956776878,94.0,2569.7561292631185,182.53271,0.0
+    minimumplayers: 2
+    mapname: Winter
+    signs:
+    - thebridge_world,168,117,-42,0.0,0.0
+    isdone: true
+    arenalocation1: arenas_world,162.0,54.0,2531.0,0.0,0.0
+    arenalocation2: arenas_world,296.0,140.0,2478.0,0.0,0.0
+    midlocation: arenas_world,232.45958320551267,68.0,2505.3760076002827,357.4292,0.0
+    maximumsize: 2
     modevalue: 3
     mode: POINTS
     resetblocks: 0
     bases:
       '0':
-        color: RED
-        baselocation1: arenasworld,1357.0,108.0,-129.0,0.0,0.0
-        baselocation2: arenasworld,1295.0,241.0,-51.0,0.0,0.0
-        cagelocation1: arenasworld,1340.0,136.0,-89.0,0.0,0.0
-        cagelocation2: arenasworld,1344.0,136.0,-85.0,0.0,0.0
-        spawnpoint: arenasworld,1341.873536369049,137.0,-86.35097861361342,267.6094,0.0
-        respawnpoint: arenasworld,1341.873536369049,137.0,-86.35097861361342,267.6094,0.0
-        portallocation1: arenasworld,1346.0,128.0,-86.0,0.0,0.0
-        portallocation2: arenasworld,1350.0,129.0,-88.0,0.0,0.0
-        portalhologram: arenasworld,1348.0,130.0,-87.0,0.0,0.0
+        color: BLUE
+        baselocation1: arenas_world,256.0,51.0,2532.0,0.0,0.0
+        baselocation2: arenas_world,296.0,140.0,2478.0,0.0,0.0
+        portallocation1: arenas_world,271.0,66.0,2504.0,0.0,0.0
+        portallocation2: arenas_world,267.0,67.0,2506.0,0.0,0.0
+        portalhologram: arenas_world,269.0,68.0,2505.0,0.0,0.0
+        cagelocation1: arenas_world,269.0,75.0,2507.0,0.0,0.0
+        cagelocation2: arenas_world,273.0,75.0,2503.0,0.0,0.0
+        spawnpoint: arenas_world,272.67851875442227,76.0,2505.1316539125323,93.463135,0.0
+        respawnpoint: arenas_world,272.672603105187,76.0,2505.3279702198056,102.01416,0.0
         isdone: true
       '1':
-        color: BLUE
-        baselocation1: arenasworld,1405.0,107.0,-51.0,0.0,0.0
-        baselocation2: arenasworld,1462.0,224.0,-122.0,0.0,0.0
-        portallocation1: arenasworld,1413.0,129.0,-86.0,0.0,0.0
-        portallocation2: arenasworld,1417.0,128.0,-88.0,0.0,0.0
-        portalhologram: arenasworld,1415.0,130.0,-87.0,0.0,0.0
-        spawnpoint: arenasworld,1420.731205604094,137.0,-85.26969744539629,43.06201,0.0
-        cagelocation1: arenasworld,1423.0,136.0,-89.0,0.0,0.0
-        cagelocation2: arenasworld,1420.0,136.0,-85.0,0.0,0.0
-        respawnpoint: arenasworld,1422.1033346406264,137.0,-85.80331059269682,89.82617,0.0
+        color: RED
+        baselocation1: arenas_world,208.0,52.0,2483.0,0.0,0.0
+        baselocation2: arenas_world,169.0,141.0,2532.0,0.0,0.0
+        portallocation1: arenas_world,193.0,66.0,2506.0,0.0,0.0
+        portallocation2: arenas_world,197.0,67.0,2504.0,0.0,0.0
+        portalhologram: arenas_world,195.0,68.0,2505.0,0.0,0.0
+        cagelocation1: arenas_world,196.0,75.0,2503.0,0.0,0.0
+        cagelocation2: arenas_world,192.0,75.0,2507.0,0.0,0.0
+        spawnpoint: arenas_world,193.74938516628563,76.0,2505.5499230274636,267.48764,0.0
+        respawnpoint: arenas_world,193.74938516628563,76.0,2505.5499230274636,267.48764,0.0
         isdone: true
-    resettime: 5
+    resettime: 0
+  Pirate:
+    lobbylocation: arenas_world,229.35566059093486,122.0,1523.6225014163704,-1.516449,0.0
+    endlocation: thebridge_world,197.5,116.0,-31.5,91.58681,0.0
+    spectatorlocation: arenas_world,229.68702824801863,123.0,1540.3063347533066,-0.4664917,0.0
+    minimumplayers: 4
+    mapname: Pirate
+    signs:
+    - thebridge_world,169,117,-42,0.0,0.0
+    isdone: true
+    arenalocation1: arenas_world,164.0,66.0,1648.0,0.0,0.0
+    arenalocation2: arenas_world,296.0,162.0,1560.0,0.0,0.0
+    midlocation: arenas_world,231.4923350095386,93.0,1608.3956993661761,-180.91667,0.0
+    maximumsize: 4
+    modevalue: 3
+    mode: POINTS
+    resetblocks: 0
+    bases:
+      '0':
+        color: BLUE
+        baselocation1: arenas_world,255.0,70.0,1646.0,0.0,0.0
+        baselocation2: arenas_world,296.0,162.0,1560.0,0.0,0.0
+        portallocation1: arenas_world,273.0,90.0,1607.0,0.0,0.0
+        portallocation2: arenas_world,269.0,92.0,1609.0,0.0,0.0
+        portalhologram: arenas_world,272.0734141391338,94.42494157741896,1608.535007927483,89.060486,0.0
+        cagelocation1: arenas_world,269.0,100.0,1609.0,0.0,0.0
+        cagelocation2: arenas_world,271.0,100.0,1607.0,0.0,0.0
+        spawnpoint: arenas_world,272.07145327790033,101.0,1608.6682902698985,119.95404,0.0
+        respawnpoint: arenas_world,272.07145327790033,101.0,1608.6682902698985,119.95404,0.0
+        isdone: true
+      '1':
+        color: RED
+        baselocation1: arenas_world,207.0,70.0,1570.0,0.0,0.0
+        baselocation2: arenas_world,164.0,187.0,1648.0,0.0,0.0
+        portallocation1: arenas_world,189.0,90.0,1609.0,0.0,0.0
+        portallocation2: arenas_world,193.0,92.0,1607.0,0.0,0.0
+        portalhologram: arenas_world,191.0,93.0,1608.0,0.0,0.0
+        cagelocation1: arenas_world,193.0,100.0,1607.0,0.0,0.0
+        cagelocation2: arenas_world,191.0,100.0,1609.0,0.0,0.0
+        spawnpoint: arenas_world,190.82517252740445,101.0,1608.311612471596,-37.38459,0.0
+        respawnpoint: arenas_world,190.82517252740445,101.0,1608.311612471596,-38.58459,0.0
+        isdone: true
+    resettime: 0
   Hall:
-    lobbylocation: arenasworld,716.7322848327753,186.0,509.3471143698216,176.73352,0.0
-    endlocation: thebridge_world,196.9380602072479,116.0,-31.502055231801933,90.22514,0.0
-    spectatorlocation: arenasworld,716.718099144317,186.0,508.7930178219232,175.81049,0.0
+    lobbylocation: arenas_world,1260.648143796923,37.0,1569.2475899458955,179.3999,0.0
+    endlocation: thebridge_world,197.5,116.0,-31.5,91.58681,0.0
+    spectatorlocation: arenas_world,1260.8116121835199,38.0,1551.3812597900917,174.75006,0.0
     minimumplayers: 8
     mapname: Hall
     signs:
     - thebridge_world,169,117,-24,0.0,0.0
     isdone: true
-    arenalocation1: arenasworld,652.0,146.0,457.0,0.0,0.0
-    arenalocation2: arenasworld,763.0,198.0,403.0,0.0,0.0
-    midlocation: arenasworld,707.5266120107085,163.0,434.5351795469985,90.74155,0.0
+    arenalocation1: arenas_world,1215.0,1.0,1529.0,0.0,0.0
+    arenalocation2: arenas_world,1312.0,63.0,1493.0,0.0,0.0
+    midlocation: arenas_world,1264.4561382374673,16.0,1510.4540565814398,2.6973267,0.0
     maximumsize: 8
-    modevalue: 3
+    modevalue: 5
     mode: POINTS
     resetblocks: 0
     bases:
       '0':
-        color: RED
-        baselocation1: arenasworld,683.0,152.0,420.0,0.0,0.0
-        baselocation2: arenasworld,652.0,199.0,457.0,0.0,0.0
-        cagelocation1: arenasworld,670.0,170.0,435.0,0.0,0.0
-        cagelocation2: arenasworld,672.0,170.0,433.0,0.0,0.0
-        spawnpoint: arenasworld,671.3106587184327,171.0,434.4764793231011,267.36633,0.0
-        respawnpoint: arenasworld,671.3106587184327,171.0,434.4764793231011,269.2121,0.0
-        portallocation1: arenasworld,671.0,163.0,435.0,0.0,0.0
-        portallocation2: arenasworld,675.0,162.0,433.0,0.0,0.0
-        portalhologram: arenasworld,673.0,164.0,434.0,0.0,0.0
+        color: BLUE
+        baselocation1: arenas_world,1288.0,1.0,1524.0,0.0,0.0
+        baselocation2: arenas_world,1312.0,63.0,1493.0,0.0,0.0
+        portallocation1: arenas_world,1300.0,15.0,1509.0,0.0,0.0
+        portallocation2: arenas_world,1296.0,16.0,1511.0,0.0,0.0
+        portalhologram: arenas_world,1298.0,17.0,1510.0,0.0,0.0
+        cagelocation1: arenas_world,1299.0,23.0,1511.0,0.0,0.0
+        cagelocation2: arenas_world,1301.0,23.0,1509.0,0.0,0.0
+        spawnpoint: arenas_world,1301.1226466468563,24.0,1510.57828850756,103.98645,0.0
+        respawnpoint: arenas_world,1301.1226466468563,24.0,1510.57828850756,103.98645,0.0
         isdone: true
       '1':
-        color: BLUE
-        baselocation1: arenasworld,731.0,151.0,448.0,0.0,0.0
-        baselocation2: arenasworld,763.0,198.0,403.0,0.0,0.0
-        cagelocation1: arenasworld,744.0,170.0,433.0,0.0,0.0
-        cagelocation2: arenasworld,742.0,170.0,435.0,0.0,0.0
-        spawnpoint: arenasworld,744.1826764361632,171.0,434.6652017427265,86.66406,0.0
-        respawnpoint: arenasworld,744.1826764361632,171.0,434.6564373221292,88.66333,0.0
-        portallocation1: arenasworld,743.0,163.0,433.0,0.0,0.0
-        portallocation2: arenasworld,739.0,162.0,435.0,0.0,0.0
-        portalhologram: arenasworld,741.0,164.0,434.0,0.0,0.0
+        color: RED
+        baselocation1: arenas_world,1240.0,0.0,1490.0,0.0,0.0
+        baselocation2: arenas_world,1215.0,52.0,1529.0,0.0,0.0
+        portallocation1: arenas_world,1228.0,15.0,1511.0,0.0,0.0
+        portallocation2: arenas_world,1232.0,16.0,1509.0,0.0,0.0
+        portalhologram: arenas_world,1230.0,17.0,1510.0,0.0,0.0
+        cagelocation1: arenas_world,1227.0,23.0,1509.0,0.0,0.0
+        cagelocation2: arenas_world,1229.0,23.0,1511.0,0.0,0.0
+        spawnpoint: arenas_world,1228.3800299642267,24.0,1510.4511548378814,320.5813,0.0
+        respawnpoint: arenas_world,1228.3800299642267,24.0,1510.4511548378814,320.5813,0.0
         isdone: true
     resettime: 0

@@ -11,16 +11,16 @@ enable-header-footer: true
 
 header:
   - "&4&lTHE BRIDGE"
-  - "&4Online players: &0%online%"
-  - "&0Online staff: &4%staffonline%"
+  - "&4Online players: &7%online%"
+  - "&7Online staff: &4%staffonline%"
   - "%animation:ping-tps%"
   - ""
-  - "&0------------------------"
+  - "&7------------------------"
 footer:
-  - "&0------------------------"
+  - "&7------------------------"
   - "%animation:time%"
   - ""
-  - "&0Visit our webpage &4apexminecrafthosting.com"
+  - "&7Visit our webpage &4apexminecrafthosting.com"
 
 #supports any numeric placeholder, set to "" to disable the feature
 yellow-number-in-tablist: "%ping%"

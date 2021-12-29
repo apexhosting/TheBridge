@@ -34,18 +34,19 @@
 rewards:
   # Commands performed when game is finished
   endgame:
-    - say %MAPNAME% has ended!
-    - say Ooh and there were playing %PLAYERAMOUNT% players
+    - ''
   death:
-    - say I died!
+    - tell %PLAYER% &cget back up, this is not over yet!.
   won:
-    - say You won!
-    - crate give to %PLAYER% RewardsCrate 1
+    - eco give %PLAYER% 300
+    - tell %PLAYER% &7[&a&lWIN&7] &7gg, you received &a300 CASH
+    - tell %PLAYER% &7(&e&l!&7) &7remember you can use your earned cash on the &a&lSHOP &7npc on the lobby!
   lose:
-    - say You lose!
+    - tell %PLAYER% &cbetter luck next time.
   kill:
-    - You killed someone! Here you could give players coins ;)
+    - tell %PLAYER% &7[&c&lKILL&7] &7you received &a+50 CASH
+    - eco give %PLAYER% 50
   point:
-    - You scored ;)
+    - tell %PLAYER% &a&GOAL!
   resetround:
     - Round gets reset!
