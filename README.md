@@ -24,7 +24,3 @@ Apex Hosting The Bridge GameType
 - [Viaversion](https://www.spigotmc.org/resources/viaversion.19254/)
 - [VoidGen](https://www.spigotmc.org/resources/voidgen.25391/)
 - [WorldGuard](https://dev.bukkit.org/projects/worldguard)
-
-
-
-
