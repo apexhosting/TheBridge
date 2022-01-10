@@ -86,3 +86,7 @@ crates:
   - '&a&lCRATES'
   - '&7Claim your rewards &ahere!'
   - '&eGet crates by winning games!'
+i23:
+  location: thebridge_world, 188.607, 118.669, -38.937
+  lines:
+  - '&cRight Click'

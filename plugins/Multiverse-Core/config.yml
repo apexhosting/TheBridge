@@ -21,7 +21,7 @@ multiverse-configuration:
   prefixchat: 'false'
   prefixchatformat: '[%world%]%chat%'
   useasyncchat: 'true'
-  teleportintercept: 'true'
+  teleportintercept: 'false'
   firstspawnoverride: 'true'
   displaypermerrors: 'true'
   globaldebug: '0'

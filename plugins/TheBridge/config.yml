@@ -64,6 +64,8 @@ Disable-Fall-Damage: true
 Whitelisted-Commands:
   - me
   - help
+  - tb selectbase
+  - selectbase
 
 # Enable in game rewards? See rewards.yml for more...
 Rewards-Enabled: true

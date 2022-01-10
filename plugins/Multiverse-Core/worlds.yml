@@ -14,12 +14,12 @@ worlds:
       ==: MVSpawnSettings
       animals:
         ==: MVSpawnSubSettings
-        spawn: 'true'
+        spawn: 'false'
         spawnrate: '-1'
         exceptions: []
       monsters:
         ==: MVSpawnSubSettings
-        spawn: 'true'
+        spawn: 'false'
         spawnrate: '-1'
         exceptions: []
     entryfee:
@@ -40,7 +40,7 @@ worlds:
       pitch: 0.0
       yaw: 0.0
     autoLoad: 'true'
-    bedRespawn: 'true'
+    bedRespawn: 'false'
     worldBlacklist: []
     environment: NORMAL
     seed: '-5477503316462151456'
@@ -88,17 +88,17 @@ worlds:
       pitch: -5.8393393
       yaw: 90.686646
     autoLoad: 'true'
-    bedRespawn: 'true'
+    bedRespawn: 'false'
     worldBlacklist: []
     environment: NORMAL
     seed: '-5455082794739284152'
     generator: VoidGen
     playerLimit: '-1'
     allowFlight: 'true'
-  arenasworld:
+  arenas_world:
     ==: MVWorld
     hidden: 'false'
-    alias: arenasworld
+    alias: arenas_world
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -110,12 +110,12 @@ worlds:
       ==: MVSpawnSettings
       animals:
         ==: MVSpawnSubSettings
-        spawn: 'true'
+        spawn: 'false'
         spawnrate: '-1'
         exceptions: []
       monsters:
         ==: MVSpawnSubSettings
-        spawn: 'true'
+        spawn: 'false'
         spawnrate: '-1'
         exceptions: []
     entryfee:
@@ -130,16 +130,16 @@ worlds:
     keepSpawnInMemory: 'false'
     spawnLocation:
       ==: MVSpawnLocation
-      x: 0.0
-      y: 65.0
-      z: 0.0
+      x: 242.0
+      y: 52.0
+      z: 1348.0
       pitch: 0.0
       yaw: 0.0
     autoLoad: 'true'
-    bedRespawn: 'true'
+    bedRespawn: 'false'
     worldBlacklist: []
     environment: NORMAL
-    seed: '-7452164897481271156'
-    generator: VoidGen
+    seed: '-4216530450634206070'
+    generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'

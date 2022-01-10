@@ -1,0 +1,16 @@
+# Multiverse-Inventories Groups
+
+# To ADD, DELETE, and EDIT groups use the command /mvinv group.
+# No support will be given for those who manually edit these groups.
+groups:
+  default:
+    worlds:
+    - thebridge_world
+    shares:
+    - all
+  games:
+    worlds:
+    - TB-Forest
+    - arenas_world
+    shares:
+    - all

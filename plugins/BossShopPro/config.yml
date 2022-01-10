@@ -1,0 +1,69 @@
+# BossShopPro
+# by Felix Neubauer
+# Check out following page for more information: https://www.spigotmc.org/wiki/bossshoppro-configuration
+AsynchronousActions: false
+EnableSigns: true
+MainShop: Menu
+HideItemsPlayersDoNotHavePermissionsFor: false
+CanPlayersSellItemsWithGreaterEnchants: false
+EnableTransactionLog: false
+SearchSubfoldersForShops: false
+AllowUnsafeEnchantments: false
+AllowSellingDamagedItems: false
+CheckStackSize: true
+InventoryFullDropItems: true
+ClickDelay: 200
+ClickSpamKick:
+  ClickDelay: 100
+  Warnings: 1
+  ForgetTime: 5000
+MaxLineLength: 42
+InputTimeout: 45
+MoneyDisplay:
+  Enabled: true
+  List:
+  - 1000000000000:12:2:%number% trillion
+  - 1000000000:9:2:%number% billion
+  - 1000000:6:2:%number% million
+  - 1000:3:2:%number%k
+  - 0:0:2:%number%
+PointsDisplay:
+  Enabled: false
+  List:
+  - 1000000:6:2:%number% million
+  - 1000:3:2:%number%k
+  - 0:0:0:%number%
+NumberDisplay:
+  Locale: en_US
+  GroupingSize: 3
+SellAllPlaceholderShowFinalReward: false
+ExpUseLevels: true
+AutoRefreshDelay: 100
+ServerPinging:
+  Enabled: false
+  Delay: 45
+  FixConnector: false
+  Timeout: 4000
+  WaitTimeAfterFail: 4500
+  List:
+  - snapcraft:mc.snapcraft.net:25565
+BungeeCord: false
+MultiplierGroups:
+  Enabled: false
+  List:
+  - BossShop.PriceMultiplier.Points:points:0.75:price
+  - BossShop.PriceMultiplier.Money:money:0.5:price
+  - BossShop.RewardMultiplier.Money:money:2.0:reward
+  - BossShop.BothMultiplier.Exp:exp:0.8
+PointsPlugin: auto-detect
+Sound:
+  Shopitem:
+    Click: UI_BUTTON_CLICK:1:1
+    Purchase: ENTITY_PLAYER_LEVELUP:1:1.8
+    NoPermission: ENTITY_BLAZE_DEATH:1:1
+    NotEnoughMoney: ENTITY_SHULKER_HURT:1:0.8
+  Shop:
+    ChangePage: UI_BUTTON_CLICK:0.2:1
+    ChangeShop: BLOCK_CHEST_OPEN:0.2:1
+    Open: ENTITY_ELDER_GUARDIAN_CURSE:1:1.8
+    Close: ''

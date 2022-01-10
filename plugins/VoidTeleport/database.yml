@@ -1,0 +1,6 @@
+worlds:
+  thebridge_world:
+    spawnpoint: thebridge_world:197.5:116.0:-31.5:91.58681:4.360643
+    y-void: 0.0
+    enabled: true
+    keep-inventory: true

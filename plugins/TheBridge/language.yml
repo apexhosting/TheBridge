@@ -246,9 +246,9 @@ In-Game:
       Hologram: "%base%;Jump into this portal!"
       Out: "This base is already out!"
     Blocked:
-      Reset: "Movement is disabled while round reset"
+      Reset: ""
       Run: "&7Get some points"
-      Title: "&7Round reset - You can not move!"
+      Title: ""
       Subtitle: "%seconds%"
     Game-End-Messages:
       Summary-Message:

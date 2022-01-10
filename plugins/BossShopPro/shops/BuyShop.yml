@@ -1,0 +1,95 @@
+ShopName: CratesShop
+DisplayName: '&4&lCRATES &7&lSHOP'
+Command: crateshop
+signs:
+  text: '[BuyShop]'
+  NeedPermissionToCreateSign: true
+shop:
+  Rewards:
+    MenuItem:
+    - 'lore:&7click to buy a &cRewards &7crate!'
+    - 'lore:&5this key gives you a chance to get any crate!'
+    - 'lore:&7COST: &a1000 $'
+    - name:&cRewards Key Crate
+    - amount:1
+    - type:TRIPWIRE_HOOK
+    RewardType: command
+    Reward:
+    - cr give to %player% RewardsCrate 1
+    PriceType: MONEY
+    Price: 1000.0
+    Message: '&eYou bought a rewards key! Money left: &c%left%'
+    ExtraPermission: ''
+    InventoryLocation: 1
+  Hats:
+    MenuItem:
+    - 'lore:&7click to buy a &eHats &7crate!'
+    - 'lore:&7COST: &a2000 $'
+    - name:&eHats Key Crate
+    - amount:1
+    - type:TRIPWIRE_HOOK
+    RewardType: command
+    Reward:
+    - cr give to %player% HatsCrate 1
+    PriceType: MONEY
+    Price: 2000.0
+    Message: '&eYou bought a hats key! Money left: &c%left%'
+    ExtraPermission: ''
+    InventoryLocation: 3
+  Particles:
+    MenuItem:
+    - 'lore:&7click to buy a &dParticles &7crate!'
+    - 'lore:&7COST: &a3500 $'
+    - name:&dParticles Key Crate
+    - amount:1
+    - type:TRIPWIRE_HOOK
+    RewardType: command
+    Reward:
+    - cr give to %player% ParticlesCrate 1
+    PriceType: MONEY
+    Price: 3500.0
+    Message: '&eYou bought a particles key! Money left: &c%left%'
+    ExtraPermission: ''
+    InventoryLocation: 5
+  Banners:
+    MenuItem:
+    - 'lore:&7click to buy a &aBanners &7crate!'
+    - 'lore:&7COST: &a5000 $'
+    - name:&aBanners Key Crate
+    - amount:1
+    - type:TRIPWIRE_HOOK
+    RewardType: command
+    Reward:
+    - cr give to %player% BannersCrate 1
+    PriceType: MONEY
+    Price: 5000.0
+    Message: '&eYou bought a banners key! Money left: &c%left%'
+    ExtraPermission: ''
+    InventoryLocation: 7
+  Tags:
+    MenuItem:
+    - 'lore:&7click to buy a &bTags &7crate!'
+    - 'lore:&7COST: &a10000 $'
+    - name:&bTags Key Crate
+    - amount:1
+    - type:TRIPWIRE_HOOK
+    RewardType: command
+    Reward:
+    - cr give to %player% TagsCrate 1
+    PriceType: MONEY
+    Price: 10000.0
+    Message: '&eYou bought a rewards key! Money left: &c%left%'
+    ExtraPermission: ''
+    InventoryLocation: 9
+  Back:
+    MenuItem:
+    - lore:&8Back to Menu
+    - name:&cBack
+    - amount:1
+    - type:REDSTONE
+    RewardType: close
+    Reward: close
+    PriceType: NOTHING
+    Message: '&6Leaving the Crates Shop...'
+    ExtraPermission: ''
+    InventoryLocation: 14

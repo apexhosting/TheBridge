@@ -4,14 +4,14 @@
 # Please don't modify 'Kit-Menu', 'Leave-Lobby', 'Base-Selector', 'Leave-Spectator', 'Player-List' and 'Spectator-Options', 'Forcestart'
 # nodes as they are hardcoded in code!
 
-Kit-Menu:
-  displayname: "&a&lKit Menu &7(Right Click)"
-  lore:
-    - "&7Right-click to select in-game kit"
-  material-name: NETHER_STAR
-  slot: 0
-  # stage can be: 'lobby' or 'spectator'
-  stage: lobby
+#Kit-Menu:
+ # displayname: "&a&lKit Menu &7(Right Click)"
+  #lore:
+   # - "&7Right-click to select in-game kit"
+  #material-name: NETHER_STAR
+  #slot: 1
+  ## stage can be: 'lobby' or 'spectator'
+ # stage: lobby
 
 Leave-Lobby:
   displayname: "&c&lReturn to Lobby &7(Right Click)"
@@ -21,13 +21,13 @@ Leave-Lobby:
   slot: 8
   stage: lobby
 
-Base-Selector:
-  displayname: "&b&lSelect Base"
-  lore:
-    "&7Right-click to select your team"
-  material-name: WOOL
-  slot: 1
-  stage: lobby
+#Base-Selector:
+ # displayname: "&b&lSelect Base"
+ # lore:
+  #  "&7Right-click to select your team"
+  #material-name: WOOL
+  #slot: 1
+  #stage: lobby
 
 Leave-Spectator:
   displayname: "&c&lLeave the Game &7(Right Click)"

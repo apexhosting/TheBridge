@@ -4,10 +4,30 @@ data:
       value: 0.0
     bdc83502-6d75-4c26-a633-729e9ed81aee:
       value: 0.0
+    8eb9f78a-fe51-4c1c-9e15-d62bdc5c9c62:
+      value: 0.0
+    5d57dd43-a339-413f-b4d0-9c0ada82691b:
+      value: 0.0
+    3cc11a62-b703-4e57-be09-58f3c0f01e85:
+      value: 0.0
+    daebf072-cc96-4f15-b7a2-7e97df05f177:
+      value: 0.0
+    7a6328cd-e1fb-4a07-a551-e9dfdbd24eea:
+      value: 0.0
   '%statistic_seconds_played%':
     f0e7f028-4955-4dc8-8e40-d334ef0bd19a:
       value: 0.0
     bdc83502-6d75-4c26-a633-729e9ed81aee:
+      value: 0.0
+    8eb9f78a-fe51-4c1c-9e15-d62bdc5c9c62:
+      value: 0.0
+    5d57dd43-a339-413f-b4d0-9c0ada82691b:
+      value: 0.0
+    3cc11a62-b703-4e57-be09-58f3c0f01e85:
+      value: 0.0
+    daebf072-cc96-4f15-b7a2-7e97df05f177:
+      value: 0.0
+    7a6328cd-e1fb-4a07-a551-e9dfdbd24eea:
       value: 0.0
 addon-data:
   '%statistic_deaths%':
